@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Leonel-web
+- 👋 Hi, I’m @Leonel-Mendoza
 - 👀 I’m interested in ... Python
 - 🌱 I’m currently learning ...libraries as Pandas, Numpy, Matplotlib.
 - 💞️ I’m looking to collaborate on ... projects relate to data analysis 
